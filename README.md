@@ -4,7 +4,6 @@ This is my first data analysis mini project.
 
 ## Tools Used
 - Python
-- Excel
 
 ## What I Did
 - Cleaned COVID-19 dataset
